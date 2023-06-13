@@ -1,0 +1,10 @@
+* rt-events
+
+A Common Lisp Real-Time (like) event library for multi-threaded applications
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/npatrick04/rt-events.git   |
+| commit  | 7d71fa4  |
+| systems | rt-events |
+|---------+-------------------------------------------|
+
